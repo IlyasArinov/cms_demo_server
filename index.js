@@ -12,19 +12,19 @@ let pages = [
         components: [
             {
                 grid: {x: 4, y: 1, w: 1, h: 2},
-                content: "Представим что это компонент. Его можно передвигать и ресайзить.",
+                content: ,
                 blockType: 'Text',
                 id: 1
             },
             {
                 grid: {x: 4, y: 2, w: 4, h: 2},
-                content: "Сохраните и обновите страницу. Изменения должны осхраниться.",
+                content: null,
                 blockType: 'Text',
                 id: 2
             },
             {
                 grid: {x: 4, y: 3, w: 6, h: 2},
-                content: "Компонент 3",
+                content: null,
                 blockType: 'Text',
                 id: 3
             }
