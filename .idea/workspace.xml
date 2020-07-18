@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b4f892-ae59-41db-87a9-56649eb742d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cms_demo/src/CMS/Blocks/Text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cms_demo/src/Components/BlockWrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cms_demo/src/Components/EditorTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cms_demo/src/Components/CMSComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="17b4f892-ae59-41db-87a9-56649eb742d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +51,7 @@
       <workItem from="1593941901295" duration="6004000" />
       <workItem from="1594836709052" duration="1568000" />
       <workItem from="1594981694269" duration="5840000" />
-      <workItem from="1595019264714" duration="16982000" />
+      <workItem from="1595019264714" duration="17340000" />
     </task>
     <servers />
   </component>
