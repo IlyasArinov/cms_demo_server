@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17b4f892-ae59-41db-87a9-56649eb742d3" name="Default Changelist" comment="" />
+    <list default="true" id="17b4f892-ae59-41db-87a9-56649eb742d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cms_demo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cms_demo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.34e295261ef7e6243296ca4c5d6a5ad5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/0.260df227.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/0.260df227.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.bb5c6e76.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.bb5c6e76.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.3c405050.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.3c405050.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.3c405050.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.4313e7f1.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.4313e7f1.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.ce159032.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.ce159032.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.ce159032.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.89d7ef50.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.89d7ef50.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.aa9be0ba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.aa9be0ba.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +39,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../cms_demo" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -34,6 +62,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -51,7 +82,7 @@
       <workItem from="1593941901295" duration="6004000" />
       <workItem from="1594836709052" duration="1568000" />
       <workItem from="1594981694269" duration="5840000" />
-      <workItem from="1595019264714" duration="17672000" />
+      <workItem from="1595019264714" duration="18732000" />
     </task>
     <servers />
   </component>
@@ -59,6 +90,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595067297053">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1595067297053" />
     <state x="651" y="263" width="618" height="580" key="find.popup" timestamp="1595034610292">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
