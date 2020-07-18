@@ -12,7 +12,7 @@ let pages = [
         components: [
             {
                 grid: {x: 4, y: 1, w: 1, h: 2},
-                content: ,
+                content: null,
                 blockType: 'Text',
                 id: 1
             },
